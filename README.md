@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shyams
-- 👀 I’m interested in some good projects to boost my practical knowledge in the amazing field of Data Science
-- 🌱 I’m currently learning Machine Learning, MySQL, Tableau to build my profile
-- 💞️ I’m looking to collaborate on some projects reated to Machine Learning
-- 📫 Just ping me on shyamsupadhyay@gmail.com / 9718467825 
-- ✨ Connect with me on LinkedIn @ https://www.linkedin.com/in/shyam-s-upadhyay-975b69118 
+- 👋 Hi, I’m Shyam
+- 👀 I’m interested in solving problems,data scince, interesting projects
+- 🌱 I’m currently building my portfolio to showcase my skills and looking for good opportunities
+- 📫 Just ping me on shyamsupadhyay@gmail.com to reach out to me
+- ✨ Connect with me on LinkedIn at https://www.linkedin.com/in/shyams-upadhyay
+- 💼 Find my portfolio projects at https://shyam-uy.github.io
 
 :D Have a nice day!
