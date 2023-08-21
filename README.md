@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Shyam
-- 👀 I’m interested in solving problems,data scince, interesting projects
-- 🌱 I’m currently building my portfolio to showcase my skills and looking for good opportunities
-- 📫 Just ping me on shyamsupadhyay@gmail.com to reach out to me
-- ✨ Connect with me on LinkedIn at https://www.linkedin.com/in/shyams-upadhyay
-- 💼 Find my portfolio projects at https://shyam-uy.github.io
+### 👋 Hi, I’m Shyam
+
+I do fun data science and automation projects when I'm bored and I'm currently working on some cool DL projects.
+
+📫 Just ping me on shyamsupadhyay@gmail.com to reach out to me
+✨ Connect with me on LinkedIn at https://www.linkedin.com/in/shyams-upadhyay
+💼
 
 :D Have a nice day!
